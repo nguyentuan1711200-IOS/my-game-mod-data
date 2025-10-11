@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Nakroth Quỷ Thương Liệp Đế",
+        "downloadURL": "https://github.com/FixIOS/activeskin/raw/refs/heads/main/Nakroth%20Qu%E1%BB%B7%20th%C6%B0%C6%A1ng%20Li%E1%BB%87p%20%C4%91%E1%BA%BF.zip",
+        "imageUrl": "https://i.imgur.com/1dUtMMf.jpeg",
+        "imageKey": "nakrothquythuongliepde"
+    },
+    {
+        "id": 2,
+        "name": "Nakroth Bạch Diện Chiến Thương",
+        "downloadURL": "https://drive.google.com/uc?export=download&id=1qH40eDMOK4cOx5a1OsrM3JkW0et0ndfz",
+        "imageUrl": "https://i.imgur.com/jbY6UkA.jpeg",
+        "imageKey": "nakrothbachdienthienthuong"
+    },
+    {
+        "id": 3,
+        "name": "Hayate Siêu Đạo Chích Kid",
+        "downloadURL": "https://drive.google.com/uc?export=download&id=1qSamcNnVjRymM1q8yL-YCuVwEdFhqNkk",
+        "imageUrl": "https://i.imgur.com/o47OTAv.jpeg",
+        "imageKey": "hayatesieudaodichkid"
+    }
+    // ... Thêm tất cả các skin SSS của bạn vào đây ...
+]
