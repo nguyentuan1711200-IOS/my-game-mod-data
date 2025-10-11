@@ -1,5 +1,5 @@
 {
-    "update_message": "GAME UPDATE FIX DATA ADMIN ĐANG UPDATE LIST SKIN SSS ONLINE\nCÁC CHỨC NĂNG KHÁC VẪN HOẠT ĐỘNG BÌNH THƯỜNG NHÉ",
+    "update_message": "",
     "skins": [
         {
             "id": 1,
@@ -192,6 +192,7 @@
         }
     ]
 }
+
 
 
 
