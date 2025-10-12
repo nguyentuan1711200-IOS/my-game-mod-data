@@ -6,199 +6,216 @@
             "name": "Nakroth Quỷ Thương Liệp Đế",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Nakroth%20Qu%E1%BB%B7%20th%C6%B0%C6%A1ng%20Li%E1%BB%87p%20%C4%90%E1%BA%BF.zip",
             "imageUrl": "https://i.imgur.com/1dUtMMf.jpeg",
-            "imageKey": "nakrothquythuongliepde"
+            "imageKey": "nakrothquythuongliepde",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 2,
             "name": "Nakroth Bạch Diện Chiến Thương",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Nakroth%20B%E1%BA%A1ch%20Di%E1%BB%87n%20Chi%E1%BA%BFn%20Th%C6%B0%C6%A1ng.zip",
             "imageUrl": "https://i.imgur.com/jbY6UkA.jpeg",
-            "imageKey": "nakrothbachdienthienthuong"
+            "imageKey": "nakrothbachdienthienthuong",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 3,
             "name": "Hayate Siêu Đạo Chích Kid",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Hayate%20Si%C3%AAu%20%C4%90%E1%BA%A1o%20Ch%C3%ADch%20Kid.zip",
             "imageUrl": "https://i.imgur.com/o47OTAv.jpeg",
-            "imageKey": "hayatesieudaodichkid"
+            "imageKey": "hayatesieudaodichkid",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 4,
             "name": "Hayate Tu Di Thánh Đế",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Hayate%20Tu%20Di%20th%C3%A1nh%20%C4%91%E1%BA%BF.zip",
             "imageUrl": "https://i.imgur.com/OlLIGEt.jpeg",
-            "imageKey": "hayatetudithanhtde"
+            "imageKey": "hayatetudithanhtde",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 5,
             "name": "Bijan Lữ Hành Thời Không",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/tFJO2jE.jpeg",
-            "imageKey": "bijanluhanhthoikhong"
+            "imageKey": "bijanluhanhthoikhong",
+            "version": 1 // << THÊM TRƯỜNG NÀY (Dù không có downloadURL, vẫn nên có version)
         },
         {
             "id": 6,
             "name": "Billow Thiên Tướng - Độ Ách",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/MQYocWx.jpeg",
-            "imageKey": "billowthientuongdoach"
+            "imageKey": "billowthientuongdoach",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 7,
             "name": "Bolt Baron Thiên Phủ - Tư Mệnh",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/5ZP8sv2.jpeg",
-            "imageKey": "boltbaronthienphutumenh"
+            "imageKey": "boltbaronthienphutumenh",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 8,
             "name": "Capheny Càn Nguyên Điện Chủ",
             "downloadURL": "https://drive.google.com/uc?export=download&id=1Fc98JU-j7e9xa-FUh4kTNWhZiJ8H5DM5",
             "imageUrl": "https://i.imgur.com/IkORUz7.jpeg",
-            "imageKey": "caphenycannguyendienchu"
+            "imageKey": "caphenycannguyendienchu",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 9,
             "name": "Capheny Harley Quinn",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/bK1cipp.jpeg",
-            "imageKey": "caphenyharleyquinn"
+            "imageKey": "caphenyharleyquinn",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 11,
             "name": "Hayate Tử thần vũ trụ",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/6qeq85U.jpeg",
-            "imageKey": "hayatetuthuvutru"
+            "imageKey": "hayatetuthuvutru",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 13,
             "name": "Ilumia Khải Huyền Thiên Hậu",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Ilumia%20Kh%E1%BA%A3i%20Huy%E1%BB%81n%20Thi%C3%AAn%20H%E1%BA%ADu.zip",
             "imageUrl": "https://i.imgur.com/q9ZYt11.jpeg",
-            "imageKey": "ilumiakhaihuyenthienhau"
+            "imageKey": "ilumiakhaihuyenthienhau",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 14,
             "name": "Ilumia Lưỡng Nghi Long Hậu",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/vAjvJYk.jpeg",
-            "imageKey": "ilumialuongngilonghau"
+            "imageKey": "ilumialuongngilonghau",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 15,
             "name": "Krixi Lốc xoáy kinh hoàng Tatsumaki",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Krixi%20L%E1%BB%91c%20xo%C3%A1y%20kinh%20ho%C3%A0ng%20Tatsumaki.zip",
             "imageUrl": "https://i.imgur.com/T4Vw6QB.jpeg",
-            "imageKey": "krixilocxoaykinhhoangtatsumaki"
+            "imageKey": "krixilocxoaykinhhoangtatsumaki",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 16,
             "name": "Krixi Phù thủy thời không",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/PUwgxox.jpeg",
-            "imageKey": "krixiphuthuythoikhong"
+            "imageKey": "krixiphuthuythoikhong",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 17,
             "name": "Lauriel Thứ nguyên vệ thần",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Lauriel%20Th%E1%BB%A9%20nguy%C3%AAn%20v%E1%BB%87%20th%E1%BA%A7n.zip",
             "imageUrl": "https://i.imgur.com/cYhoFTx.jpeg",
-            "imageKey": "laurielthuyenuvethan"
+            "imageKey": "laurielthuyenuvethan",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 18,
             "name": "Ngộ Không Tề Thiên Võ Thánh",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/3WxfpPu.jpeg",
-            "imageKey": "ngokhongtethienvothanh"
+            "imageKey": "ngokhongtethienvothanh",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 19,
             "name": "Ngộ Không Thần Giáp Xích Diễm",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Ng%E1%BB%99%20Kh%C3%B4ng%20Th%E1%BA%A7n%20Gi%C3%A1p%20X%C3%ADch%20Di%E1%BB%85m.zip",
             "imageUrl": "https://i.imgur.com/jt8DZdS.jpeg",
-            "imageKey": "ngokhongthangiapxichdiem"
+            "imageKey": "ngokhongthangiapxichdiem",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 20,
             "name": "Paine Megumi Fushiguro",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Paine%20Megumi%20Fushiguro.zip",
             "imageUrl": "https://i.imgur.com/10SjoRf.jpeg",
-            "imageKey": "painemegumifushiguro"
+            "imageKey": "painemegumifushiguro",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 21,
             "name": "Stuart Siêu Trùm phản diện",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/5FEUUHy.jpeg",
-            "imageKey": "stuartsieutrumphandien"
+            "imageKey": "stuartsieutrumphandien",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 22,
             "name": "Tel'annas Lân Quang Thánh Điệu",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/gI13Qyf.jpeg",
-            "imageKey": "telannaslanquangsanhdieu"
+            "imageKey": "telannaslanquangsanhdieu",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 23,
             "name": "Tulen Chí tôn kiếm tiên",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/PcFpPho.jpeg",
-            "imageKey": "tulenchitonkiemtien"
+            "imageKey": "tulenchitonkiemtien",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 24,
             "name": "Tulen Thần sứ STL-79",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/XXc14Kh.jpeg",
-            "imageKey": "tulenthansustl79"
+            "imageKey": "tulenthansustl79",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 25,
             "name": "Veera Thất Sát - Thượng Sinh",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/k0odCwp.jpeg",
-            "imageKey": "veerathatsatthuongsinh"
+            "imageKey": "veerathatsatthuongsinh",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 26,
             "name": "Violet Huyết ma thần",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/X6HWRuX.jpeg",
-            "imageKey": "violethuyetmathan"
+            "imageKey": "violethuyetmathan",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 27,
             "name": "Violet Nobara Kugisaki",
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Violet%20Nobara%20Kugisaki.zip",
             "imageUrl": "https://i.imgur.com/p3VITxQ.jpeg",
-            "imageKey": "violetnobarakugisaki"
+            "imageKey": "violetnobarakugisaki",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 28,
             "name": "Violet Vọng nguyệt Long Cơ",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/Wp9b8tV.jpeg",
-            "imageKey": "violetvongnguyetlongco"
+            "imageKey": "violetvongnguyetlongco",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         },
         {
             "id": 29,
             "name": "Yorn Conan Edogawa",
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/HMVdGTM.jpeg",
-            "imageKey": "yornconanedogawa"
+            "imageKey": "yornconanedogawa",
+            "version": 1 // << THÊM TRƯỜNG NÀY
         }
     ]
 }
-
-
-
-
-
-
-
-
-
-
