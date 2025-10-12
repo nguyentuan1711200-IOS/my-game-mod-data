@@ -7,7 +7,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Nakroth%20Qu%E1%BB%B7%20th%C6%B0%C6%A1ng%20Li%E1%BB%87p%20%C4%90%E1%BA%BF.zip",
             "imageUrl": "https://i.imgur.com/1dUtMMf.jpeg",
             "imageKey": "nakrothquythuongliepde",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 2,
@@ -15,7 +15,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Nakroth%20B%E1%BA%A1ch%20Di%E1%BB%87n%20Chi%E1%BA%BFn%20Th%C6%B0%C6%A1ng.zip",
             "imageUrl": "https://i.imgur.com/jbY6UkA.jpeg",
             "imageKey": "nakrothbachdienthienthuong",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 3,
@@ -23,7 +23,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Hayate%20Si%C3%AAu%20%C4%90%E1%BA%A1o%20Ch%C3%ADch%20Kid.zip",
             "imageUrl": "https://i.imgur.com/o47OTAv.jpeg",
             "imageKey": "hayatesieudaodichkid",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 4,
@@ -31,7 +31,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Hayate%20Tu%20Di%20th%C3%A1nh%20%C4%91%E1%BA%BF.zip",
             "imageUrl": "https://i.imgur.com/OlLIGEt.jpeg",
             "imageKey": "hayatetudithanhtde",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 5,
@@ -39,7 +39,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/tFJO2jE.jpeg",
             "imageKey": "bijanluhanhthoikhong",
-            "version": 1 // << THÊM TRƯỜNG NÀY (Dù không có downloadURL, vẫn nên có version)
+            "version": 1
         },
         {
             "id": 6,
@@ -47,7 +47,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/MQYocWx.jpeg",
             "imageKey": "billowthientuongdoach",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 7,
@@ -55,7 +55,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/5ZP8sv2.jpeg",
             "imageKey": "boltbaronthienphutumenh",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 8,
@@ -63,7 +63,7 @@
             "downloadURL": "https://drive.google.com/uc?export=download&id=1Fc98JU-j7e9xa-FUh4kTNWhZiJ8H5DM5",
             "imageUrl": "https://i.imgur.com/IkORUz7.jpeg",
             "imageKey": "caphenycannguyendienchu",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 9,
@@ -71,7 +71,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/bK1cipp.jpeg",
             "imageKey": "caphenyharleyquinn",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 11,
@@ -79,7 +79,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/6qeq85U.jpeg",
             "imageKey": "hayatetuthuvutru",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 13,
@@ -87,7 +87,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Ilumia%20Kh%E1%BA%A3i%20Huy%E1%BB%81n%20Thi%C3%AAn%20H%E1%BA%ADu.zip",
             "imageUrl": "https://i.imgur.com/q9ZYt11.jpeg",
             "imageKey": "ilumiakhaihuyenthienhau",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 14,
@@ -95,7 +95,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/vAjvJYk.jpeg",
             "imageKey": "ilumialuongngilonghau",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 15,
@@ -103,7 +103,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Krixi%20L%E1%BB%91c%20xo%C3%A1y%20kinh%20ho%C3%A0ng%20Tatsumaki.zip",
             "imageUrl": "https://i.imgur.com/T4Vw6QB.jpeg",
             "imageKey": "krixilocxoaykinhhoangtatsumaki",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 16,
@@ -111,7 +111,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/PUwgxox.jpeg",
             "imageKey": "krixiphuthuythoikhong",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 17,
@@ -119,7 +119,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Lauriel%20Th%E1%BB%A9%20nguy%C3%AAn%20v%E1%BB%87%20th%E1%BA%A7n.zip",
             "imageUrl": "https://i.imgur.com/cYhoFTx.jpeg",
             "imageKey": "laurielthuyenuvethan",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 18,
@@ -127,7 +127,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/3WxfpPu.jpeg",
             "imageKey": "ngokhongtethienvothanh",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 19,
@@ -135,7 +135,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Ng%E1%BB%99%20Kh%C3%B4ng%20Th%E1%BA%A7n%20Gi%C3%A1p%20X%C3%ADch%20Di%E1%BB%85m.zip",
             "imageUrl": "https://i.imgur.com/jt8DZdS.jpeg",
             "imageKey": "ngokhongthangiapxichdiem",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 20,
@@ -143,7 +143,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Paine%20Megumi%20Fushiguro.zip",
             "imageUrl": "https://i.imgur.com/10SjoRf.jpeg",
             "imageKey": "painemegumifushiguro",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 21,
@@ -151,7 +151,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/5FEUUHy.jpeg",
             "imageKey": "stuartsieutrumphandien",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 22,
@@ -159,7 +159,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/gI13Qyf.jpeg",
             "imageKey": "telannaslanquangsanhdieu",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 23,
@@ -167,7 +167,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/PcFpPho.jpeg",
             "imageKey": "tulenchitonkiemtien",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 24,
@@ -175,7 +175,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/XXc14Kh.jpeg",
             "imageKey": "tulenthansustl79",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 25,
@@ -183,7 +183,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/k0odCwp.jpeg",
             "imageKey": "veerathatsatthuongsinh",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 26,
@@ -191,7 +191,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/X6HWRuX.jpeg",
             "imageKey": "violethuyetmathan",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 27,
@@ -199,7 +199,7 @@
             "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Violet%20Nobara%20Kugisaki.zip",
             "imageUrl": "https://i.imgur.com/p3VITxQ.jpeg",
             "imageKey": "violetnobarakugisaki",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 28,
@@ -207,7 +207,7 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/Wp9b8tV.jpeg",
             "imageKey": "violetvongnguyetlongco",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         },
         {
             "id": 29,
@@ -215,7 +215,8 @@
             "downloadURL": "",
             "imageUrl": "https://i.imgur.com/HMVdGTM.jpeg",
             "imageKey": "yornconanedogawa",
-            "version": 1 // << THÊM TRƯỜNG NÀY
+            "version": 1
         }
     ]
 }
+
