@@ -36,7 +36,7 @@
         {
             "id": 5,
             "name": "Bijan Lữ Hành Thời Không",
-            "downloadURL": "",
+            "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Bijan%20L%E1%BB%AF%20H%C3%A0nh%20Th%E1%BB%9Di%20Kh%C3%B4ng.zip",
             "imageUrl": "https://i.imgur.com/tFJO2jE.jpeg",
             "imageKey": "bijanluhanhthoikhong",
             "version": 1
@@ -44,7 +44,7 @@
         {
             "id": 6,
             "name": "Billow Thiên Tướng - Độ Ách",
-            "downloadURL": "",
+            "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Billow%20Thi%C3%AAn%20T%C6%B0%E1%BB%9Bng%20-%20%C4%90%E1%BB%99%20%C3%81ch.zip",
             "imageUrl": "https://i.imgur.com/MQYocWx.jpeg",
             "imageKey": "billowthientuongdoach",
             "version": 1
@@ -52,7 +52,7 @@
         {
             "id": 7,
             "name": "Bolt Baron Thiên Phủ - Tư Mệnh",
-            "downloadURL": "",
+            "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Bolt%20Baron%20Thi%C3%AAn%20Ph%E1%BB%A7%20-%20T%C6%B0%20M%E1%BB%87nh.zip",
             "imageUrl": "https://i.imgur.com/5ZP8sv2.jpeg",
             "imageKey": "boltbaronthienphutumenh",
             "version": 1
@@ -219,4 +219,5 @@
         }
     ]
 }
+
 
