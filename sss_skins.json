@@ -76,7 +76,7 @@
         {
             "id": 11,
             "name": "Hayate Tử thần vũ trụ",
-            "downloadURL": "",
+            "downloadURL": "https://github.com/nguyentuan1711200-IOS/zipskinss/raw/refs/heads/main/Hayate%20Tu%CC%9B%CC%89%20tha%CC%82%CC%80n%20vu%CC%83%20tru%CC%A3.zip",
             "imageUrl": "https://i.imgur.com/6qeq85U.jpeg",
             "imageKey": "hayatetuthuvutru",
             "version": 1
@@ -219,5 +219,6 @@
         }
     ]
 }
+
 
 
