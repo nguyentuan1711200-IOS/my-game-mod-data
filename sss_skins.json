@@ -1,5 +1,5 @@
 {
-    "update_message": "ĐANG UPDATE ONLINE LIST SKIN SSS VUI LÒNG ĐỢI....",
+    "update_message": "",
     "skins": [
         {
             "id": 1,
@@ -219,6 +219,7 @@
         }
     ]
 }
+
 
 
 
