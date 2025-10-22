@@ -1,5 +1,5 @@
 {
-    "update_message": "",
+    "update_message": "ĐANG UPDATE ONLINE LIST SKIN SSS VUI LÒNG ĐỢI....",
     "skins": [
         {
             "id": 1,
@@ -8,7 +8,6 @@
             "imageUrl": "https://i.imgur.com/1dUtMMf.jpeg",
             "imageKey": "nakrothquythuongliepde",
             "version": 1,
-            "heroId": 150
         },
         {
             "id": 2,
@@ -220,6 +219,7 @@
         }
     ]
 }
+
 
 
 
