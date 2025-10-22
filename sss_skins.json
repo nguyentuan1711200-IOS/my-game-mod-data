@@ -1,5 +1,5 @@
 {
-    "update_message": "ĐANG LOADING...",
+    "update_message": "",
     "skins": [
         {
             "id": 1,
@@ -219,6 +219,7 @@
         }
     ]
 }
+
 
 
 
