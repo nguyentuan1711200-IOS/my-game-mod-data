@@ -4,7 +4,7 @@
         {
             "id": 1,
             "name": "Nakroth Quỷ Thương Liệp Đế",
-            "downloadURL": "https://github.com/nguyentuan1711200-IOS/SkinVN/raw/refs/heads/main/NAK%20QU%E1%BB%B6%20TH%C6%AF%C6%A0NG.zip",
+            "downloadURL": "",
             "imageUrl": "https://i.imgur.com/1dUtMMf.jpeg",
             "imageKey": "nakrothquythuongliepde",
             "version": 5
@@ -20,7 +20,7 @@
         {
             "id": 3,
             "name": "Hayate Siêu Đạo Chích Kid",
-            "downloadURL": "",
+            "downloadURL": "https://github.com/nguyentuan1711200-IOS/SkinVN/raw/refs/heads/main/HAYATE%20%C4%90%E1%BA%A0O%20CH%C3%8DCH.zip",
             "imageUrl": "https://i.imgur.com/o47OTAv.jpeg",
             "imageKey": "hayatesieudaodichkid",
             "version": 5
